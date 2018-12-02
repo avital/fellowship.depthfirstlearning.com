@@ -88,7 +88,7 @@ page_sections:
   block: one-column-1
   background: "#999999"
   headline: "<br/>	<span id='apply_section' style='font-size: 200%'>Apply to the Depth First Learning Fellowship</span>"
-  content: "<div style='background-color: #B5DFF5; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px; text-align: left';><div style='max-width: 660px; margin-right: auto; margin-left: auto;'><p>We are looking for guides to lead new DFL study groups, each based around
+  content: "<div style='background-color: #D3EAF5; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px; text-align: left';><div style='max-width: 660px; margin-right: auto; margin-left: auto;'><p>We are looking for guides to lead new DFL study groups, each based around
 a high-quality curricula for a particular paper or concept in machine learning.
 </p>
 <br />
@@ -113,9 +113,9 @@ experts in the field to act as advisors.</p>
 <br/>
 </p>
 <br />
- <p><b>• exhibit mathematical maturity</b>: We want to encourage fellows to target papers which introduce fundamental ideas in modern machine learning.</p>
+ <p><b>• exhibit mathematical maturity</b>: Fellows target meaningful papers which depend on fundamental concepts in fields such as mathematics, statistics, and, information theory. Fellows need to understand the fundamentals in order to plan a curriculum around them.  </p>
 <br />
-  <p><b>• effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicate ideas central to research papers, and moderate discussions with fellow participants. Previous experience with teaching or organinzing classes is a bonus.</p>
+  <p><b>• effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicate ideas central to research papers, and moderate discussions with fellow participants. Previous experience with teaching or organizing classes is a bonus.</p>
 <br />
  <p><b>• commit strongly to make the DFL sessions a success</b>: This primarily entails
 designing curricula with sufficient rigour and exercises for the classes. From previous iterations, we estimate this to take around 12 hours a week of time commitment for developing curriculum for each week, alongside regular feedback from the advisors.</p>

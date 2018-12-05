@@ -63,25 +63,26 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: '<img src="/uploads/2018/11/07/ashish.jpeg" style="max-width: 100%; max-height: 100%"><br/> <span style="text-decoration:
+    content: '<img src="/uploads/2018/11/07/ashish.jpeg" style="max-width: 100%; max-height: 100%"><br/> <strong><em>"This is so wonderful
+      &mdash; a one stop shop for understanding fundamental topics building up
+      to important papers, at depth."</em></strong>
+       <br /> <br /> <span style="text-decoration:
       underline;">Ashish Vaswani</span> (Senior Research Scientist, Google Brain,
-      first author of “Attention is all you need”): <strong><em>"This is so wonderful
-      -- finally, a one stop shop for understanding fundamental topics building up
-      to important machine learning papers, at depth."</em></strong>'
+      first author of “Attention is all you need”)'
     headline: ''
     undefined: "/uploads/2018/11/07/ashish.jpeg"
   col_2:
-    content: '<img src="/uploads/2018/11/07/nal.jpeg" style="max-width: 100%; max-height: 100%"><br/> <span style="text-decoration:
+    content: '<img src="/uploads/2018/11/07/nal.jpeg" style="max-width: 100%; max-height: 100%"><br/> <strong><em>“You’re building
+      the book on modern machine learning.”</em></strong> <br /> <br /> <span style="text-decoration:
       underline;">Nal Kalchbrenner</span> (Staff Research Scientist, Google Brain,
-      ex-DeepMind, author of PixelRNN, WaveNet, WaveRNN): <strong><em>“You’re building
-      the book on modern machine learning.”</em></strong>'
+      ex-DeepMind, author of PixelRNN, WaveNet, WaveRNN)'
     headline: ''
     undefined: "/uploads/2018/11/07/nal.jpeg"
   col_3:
     content: '<img src="/uploads/2018/11/07/peter.jpg" style="max-width:
-      100%; max-height: 100%" /> <br/><span style="text-decoration: underline;">Peter (Xi)
-      Chen</span> (CEO of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome
-      initiative - we can use a lot more resources like this in our community."</em></strong>'
+      100%; max-height: 100%" /> <br /><strong><em>“Awesome
+      initiative &mdash; we can use a lot more resources like this in our community."</em></strong> <br /><br/><span style="text-decoration: underline;">Peter (Xi)
+      Chen</span> (CEO of Covariant.AI, ex-OpenAI, first author of InfoGAN)'
     headline: ''
     undefined: "/uploads/2018/11/07/peter.jpg"
 - template: 1-column-text

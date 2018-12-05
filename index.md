@@ -113,14 +113,14 @@ experts in the field to act as advisors.</p>
 <br/>
 </p>
 <br />
- <p><b>• exhibit mathematical maturity</b>: Fellows target meaningful papers which depend on fundamental concepts in fields such as mathematics, statistics, and, information theory. Fellows need to understand the fundamentals in order to plan a curriculum around them.  </p>
+ <p><b>• Exhibit mathematical maturity</b>: Fellows target meaningful papers which depend on fundamental concepts in fields such as mathematics, statistics, and, information theory. Fellows need to understand the fundamentals in order to plan a curriculum around them.  </p>
 <br />
-  <p><b>• effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicate ideas central to research papers, and moderate discussions with fellow participants. Previous experience with teaching or organizing classes is a bonus.</p>
+  <p><b>• Effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicate ideas central to research papers, and moderate discussions with fellow participants. Previous experience with teaching or organizing classes is a bonus.</p>
 <br />
- <p><b>• commit strongly to make the DFL sessions a success</b>: This primarily entails
+ <p><b>• Commit strongly to make the DFL sessions a success</b>: This primarily entails
 designing curricula with sufficient rigour and exercises for the classes. From previous iterations, we estimate this to take around 12 hours a week of time commitment for developing curriculum for each week, alongside regular feedback from the advisors.</p>
 <br />
- <p><b>• value diversity</b>: Encourage positive interaction in study sessions.</p>
+ <p><b>• Value diversity</b>: Encourage positive interaction in study sessions.</p>
 <br />
 <p>
 <center>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</center>

@@ -28,8 +28,8 @@ page_sections:
     We found that many papers often assumed a set of requisite knowledge, which prevented
     us from deeply appreciating the contribution or novelty of the work. <br><br>To
     this end, we designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
-    First Learning</strong></a>, a pedagogy for diving deep by carefully tailoring
-    a curriculum around a particular ML paper or concept and leading small, focused
+    First Learning</strong></a>, a pedagogy for diving deep into machine learning by carefully tailoring
+    a curriculum around a particular paper or concept in small, focused
     discussion groups. So far, we've created guides for <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
     <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
     and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
@@ -45,8 +45,8 @@ page_sections:
     back to sound source material and problems sets.<br><br>3. The group discusses
     the dependencies over 5-6 weekly sessions. They write up solutions to problems
     and add comments on the document itself, creating a living representation of their
-    understanding.<br><br><strong>At the end, the document is made public, and all
-    of the credit goes to the guides and the group.</strong>
+    understanding.<br><br><strong>The document is made public afterwards and all
+    credit goes to the guides and the group.</strong>
   headline: Here's how DFL works
   media:
     image: "/uploads/2018/11/07/Screen Shot 2018-11-07 at 6.38.24 PM.png"
@@ -89,13 +89,13 @@ page_sections:
   background: "#999999"
   headline: "<br/>	<span id='apply_section' style='font-size: 200%'>Apply to the Depth First Learning Fellowship</span>"
   content: "<div style='background-color: #D3EAF5; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px; text-align: left';><div style='max-width: 660px; margin-right: auto; margin-left: auto;'><p>We are looking for guides to lead new DFL study groups, each based around
-a high-quality curricula for a particular paper or concept in machine learning.
+a high-quality curricula targeting a particular paper in machine learning.
 </p>
 <br />
 <p>
 Towards this end, we are launching
-the Depth First Learning fellowship. Chosen fellows will each be given a <strong>$4000 grant</strong>,
-to help them design the curricula for a DFL class, that will be held over 4-6 weeks remotely over video conferencing.
+the Depth First Learning Fellowship. Chosen fellows will each be given a <strong>$4000 grant</strong>
+to help design the curricula for and lead a DFL group. The group will run for 5-6 weeks remotely via video conferencing.
 </p>
 <br />
 <p>
@@ -109,27 +109,25 @@ experts in the field to act as advisors.</p>
 </p>
 <br/>
 <p>
-	A great candidate would:
+	Here are the characteristics that we are looking for in candidates:
 <br/>
 </p>
 <br />
- <p><b>• Exhibit mathematical maturity</b>: Fellows target meaningful papers which depend on fundamental concepts in fields such as mathematics, statistics, and, information theory. Fellows need to understand the fundamentals in order to plan a curriculum around them.  </p>
+ <p><b>• Exhibit mathematical maturity</b>: Fellows target meaningful papers which depend on fundamental concepts in mathematics, statistics, and information theory. They should understand the fundamentals in order to plan a curriculum.  </p>
 <br />
-  <p><b>• Effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicate ideas central to research papers, and moderate discussions with fellow participants. Previous experience with teaching or organizing classes is a bonus.</p>
+  <p><b>• Effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicating ideas central to research papers and moderating discussions among group participants. Previous experience with teaching or organizing classes is a bonus.</p>
 <br />
  <p><b>• Commit strongly to make the DFL sessions a success</b>: This primarily entails
-designing curricula with sufficient rigour and exercises for the classes. From previous iterations, we estimate this to take around 12 hours a week of time commitment for developing curriculum for each week, alongside regular feedback from the advisors.</p>
+designing curricula with sufficient rigour and exercises for the classes. From previous iterations, we estimate this to take around 12 hours a week. We will help you in this process with regular feedback.</p>
 <br />
- <p><b>• Value diversity</b>: Encourage positive interaction in study sessions.</p>
+ <p><b>• Value group learning</b>: Encourage positive interactions in study sessions.</p>
 <br />
 <p>
 <center>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</center>
 </p>
 <br/>
 
-<p> We are accepting applications until <strong>February 15th, 2019</strong> for the first class
-of DFL fellows, where we will support 4 fellows through this exciting
-journey! <br /><br />
+<p> We are accepting applications until <strong>February 15th, 2019</strong> for the inaugural class of DFL fellows. <br /><br />
 </p>
 <p style='text-align: center'>
 <a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>

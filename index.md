@@ -10,9 +10,9 @@ page_sections:
     First Learning Fellowship</span> to help more students and researchers lead their
     own independent study groups. The DFL Fellowship is generously funded by <a href="http://www.janestreet.com/" target="_blank">Jane Street</a>.</div>'
   cta:
-    enabled: true
+    enabled: false
     onclick: "window.scrollBy({behavior: 'smooth', top: document.getElementById('apply_section').getBoundingClientRect().top})"
-    button_text: Apply Now
+    button_text: Applications are now closed
   image:
     image: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
     alt_text: DFL x Jane St.
@@ -127,10 +127,8 @@ designing curricula with sufficient rigour and exercises for the classes. From p
 </p>
 <br/>
 
-<p> We are accepting applications until <strong>February 15th, 2019</strong> for the inaugural class of DFL fellows. <br /><br />
-</p>
-<p style='text-align: center'>
-<a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>
+<p><strong>Thanks for all of the applications! We received interest from an astounding 113 people, and we are now going over the list. If you applied, you should have received an email from us. <br /> <br />Applications are now closed.</strong>
+<br /><br />
 </p>
 <br/>
 <p>
